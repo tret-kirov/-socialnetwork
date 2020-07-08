@@ -1,0 +1,21 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 15% 50%;
+    font-family: "Times New Roman";
+
+}
+
+.dialogsItems .dialogs {
+padding: 10px;
+}
+
+/*.messages {*/
+/*    padding: 10px;*/
+
+/*}*/
+
+.messages .message {
+
+
+}
+
